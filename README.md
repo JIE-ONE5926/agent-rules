@@ -13,7 +13,7 @@
 
 ## 快速开始
 
-- **Claude Code 全局生效**：把 `CLAUDE.md` 复制到 `C:\Users\MyPC\.claude\CLAUDE.md`（其他系统为 `~/.claude/CLAUDE.md`），新会话自动加载。
+- **Claude Code 全局生效**：把 `CLAUDE.md` 复制到 `~/.claude/CLAUDE.md`，新会话自动加载。
 - **给其他 AI 使用**：把 `AGENTS.md` 复制到目标项目根目录。
 - **同时在用两份**：遵循下面的冲突优先级。
 
